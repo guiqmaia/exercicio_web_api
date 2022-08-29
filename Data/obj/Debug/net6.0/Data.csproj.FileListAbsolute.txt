@@ -1,0 +1,14 @@
+C:\Users\Guilherme.Maia\Documents\dotNET\Warren\Exercicio\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\Guilherme.Maia\Documents\dotNET\Warren\Exercicio\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\Guilherme.Maia\Documents\dotNET\Warren\Exercicio\Data\bin\Debug\net6.0\Data.dll
+C:\Users\Guilherme.Maia\Documents\dotNET\Warren\Exercicio\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\Guilherme.Maia\Documents\dotNET\Warren\Exercicio\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\Guilherme.Maia\Documents\dotNET\Warren\Exercicio\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme.Maia\Documents\dotNET\Warren\Exercicio\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\Guilherme.Maia\Documents\dotNET\Warren\Exercicio\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\Guilherme.Maia\Documents\dotNET\Warren\Exercicio\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme.Maia\Documents\dotNET\Warren\Exercicio\Data\obj\Debug\net6.0\Data.dll
+C:\Users\Guilherme.Maia\Documents\dotNET\Warren\Exercicio\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\Guilherme.Maia\Documents\dotNET\Warren\Exercicio\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\Guilherme.Maia\Documents\dotNET\Warren\Exercicio\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\Guilherme.Maia\Documents\dotNET\Warren\Exercicio\Data\obj\Debug\net6.0\ref\Data.dll
