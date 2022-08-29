@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guilherme.Maia\\Documents\\dotNET\\Warren\\Exercicio\\Data\\Data.csproj": {}
+    "C:\\Users\\Paola.Poffo\\Desktop\\Warren\\exercicio\\Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guilherme.Maia\\Documents\\dotNET\\Warren\\Exercicio\\Data\\Data.csproj": {
+    "C:\\Users\\Paola.Poffo\\Desktop\\Warren\\exercicio\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guilherme.Maia\\Documents\\dotNET\\Warren\\Exercicio\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Paola.Poffo\\Desktop\\Warren\\exercicio\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\Guilherme.Maia\\Documents\\dotNET\\Warren\\Exercicio\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\Guilherme.Maia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guilherme.Maia\\Documents\\dotNET\\Warren\\Exercicio\\Data\\obj\\",
+        "projectPath": "C:\\Users\\Paola.Poffo\\Desktop\\Warren\\exercicio\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Paola.Poffo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Paola.Poffo\\Desktop\\Warren\\exercicio\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Guilherme.Maia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Paola.Poffo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
